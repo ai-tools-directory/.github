@@ -46,3 +46,5 @@ Our experimental AI tools directory is not just about the tools listed—it's a 
 Thank you for being part of our experimental journey. We look forward to your engagement and are excited to see how this project evolves.
 
 Feel free to contact us if you have any questions about the technical aspects of our project or if you're interested in learning more about the technologies we're exploring.
+
+Here you can find the page: [ai-tools.directory](https://ai-tools.directory)
